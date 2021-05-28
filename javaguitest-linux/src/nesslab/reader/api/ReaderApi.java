@@ -18,7 +18,7 @@ import java.util.ArrayList;
 
 
 public class ReaderApi {
-	// test 
+	// test ??
 	public enum Algorithm
 	{
 		FIXEDQ,
